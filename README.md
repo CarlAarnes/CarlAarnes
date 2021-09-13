@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @CarlAarnes
 - 👀 I’m interested in programming, computer gaming and chess.
 - 🌱 I’m currently learning flutter.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... carl.aarnes at sjakk24.no
 
 <!---
 CarlAarnes/CarlAarnes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
